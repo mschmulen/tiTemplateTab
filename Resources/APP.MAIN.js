@@ -26,7 +26,6 @@ APP = (function() {
 		var label1 = Titanium.UI.createLabel({ color:'#999', text:'I am Window 1', font:{fontSize:20,fontFamily:'Helvetica Neue'}, textAlign:'center', width:'auto' });
 		win1.add(label1);
 		
-		
 		var win2 = Titanium.UI.createWindow({ title:'Win 2',   backgroundColor:'#fff' });
 		var tab2 = Titanium.UI.createTab({ icon:'KS_nav_ui.png',title:'Tab 2', window:win2 });
 		

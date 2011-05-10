@@ -1,3 +1,5 @@
+//comment
+
 var APP = {};
 
 APP = (function() {
